@@ -17,7 +17,9 @@
     "generators"
   ],
   "keywords": [
-    "yeoman-generator"
+    "yeoman-generator",
+    "yeoman jquery generator",
+    "yeoman jquery plugin"
   ],
   "dependencies": {
     "yeoman-generator": "^0.19.0",
