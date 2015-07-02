@@ -7,8 +7,8 @@
   "repository": "uppercase/generator-jqpg",
   "author": {
     "name": "Tommy Stomlien",
-    "email": "tommy.stomlien@uppercase.no",
-    "url": "https://uppercase.no"
+    "email": "tommystomlien@gmail.com",
+    "url": "http://uppercase.no"
   },
   "scripts": {
     "test": "mocha"
